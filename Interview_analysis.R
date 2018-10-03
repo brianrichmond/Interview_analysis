@@ -108,4 +108,4 @@ summary(int_practice2)
 anova(int_practice2,test="Chisq")
 pR2(int_practice2)  # measures of how much the logistic model explains
 
-### END ###
+#### END ####
